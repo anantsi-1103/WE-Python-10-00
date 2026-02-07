@@ -1,0 +1,2 @@
+SavingAccount,9900,Ajay,12,22346.0
+CurrentAccount,234,Aman,89,100000
